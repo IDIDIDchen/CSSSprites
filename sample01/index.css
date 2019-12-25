@@ -1,0 +1,54 @@
+
+div {
+    display: inline-block;
+}
+
+/* 13+(90+7)*number */
+.aa-1 {
+    width: 90px;
+    height: 90px;
+    background: url(./images/2.png) no-repeat center;
+    background-position: -13px -13px;
+}
+
+.aa-2 {
+    width: 90px;
+    height: 90px;
+    background: url(./images/2.png) no-repeat center;
+    background-position: -109px -13px;
+}
+
+.aa-3 {
+    width: 90px;
+    height: 90px;
+    background: url(./images/2.png) no-repeat center;
+    background-position: -205px -13px;
+}
+
+.aa-4 {
+    width: 90px;
+    height: 90px;
+    background: url(./images/2.png) no-repeat center;
+    background-position: -301px -13px;
+}
+
+.aa-5 {
+    width: 90px;
+    height: 90px;
+    background: url(./images/2.png) no-repeat center;
+    background-position: -396px -13px;
+}
+
+.aa-6 {
+    width: 90px;
+    height: 90px;
+    background: url(./images/2.png) no-repeat center;
+    background-position: -498px -13px;
+}
+
+.aa-7 {
+    width: 90px;
+    height: 90px;
+    background: url(./images/2.png) no-repeat center;
+    background-position: -596px -13px;
+}
